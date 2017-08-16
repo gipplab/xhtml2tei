@@ -1,3 +1,5 @@
+# xhtml2tei
+
 Requirements
 ====
 
@@ -12,7 +14,7 @@ Run
 ```
 xsltprocJ transform.xsl data.xml
 ```
-to do xslttransformations.
+to do xslt transformations.
 
 Testing
 ====
