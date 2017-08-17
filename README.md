@@ -1,5 +1,7 @@
 # xhtml2tei
 
+[![Build Status](https://travis-ci.org/ag-gipp/xhtml2tei.svg?branch=master)](https://travis-ci.org/ag-gipp/xhtml2tei)
+
 Requirements
 ====
 

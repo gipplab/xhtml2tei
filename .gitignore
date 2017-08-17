@@ -17,7 +17,6 @@ buildNumber.properties
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-.idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
 
@@ -32,7 +31,6 @@ buildNumber.properties
 
 # Gradle:
 .idea/**/gradle.xml
-.idea/**/libraries
 
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
@@ -59,3 +57,8 @@ fabric.properties
 
 .idea
 xsltprocJ.iml
+/test/sample-latex-document.aux
+/test/sample-latex-document.log
+/test/sample-latex-document.synctex.gz
+/test/sample-latex-document.pdf
+/test/sample-latex-document.out
